@@ -1,0 +1,6 @@
+SELECT Activity
+FROM Friends
+GROUP BY Activity
+HAVING
+COUNT(*) <> (SELECT COUNT(*) FROM friends GROUP BY activity ORDER BY 1 DESC LIMIT 1 )
+AND COUNT(*) <> (SELECT COUNT(*) FROM friends GROUP BY activity ORDER BY 1 ASC LIMIT 1 )
