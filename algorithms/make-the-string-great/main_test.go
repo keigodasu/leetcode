@@ -35,3 +35,38 @@ func Test_makeGood(t *testing.T) {
 		})
 	}
 }
+
+func Test_makeGoodUsingStack(t *testing.T) {
+	type args struct {
+		s string
+	}
+	tests := []struct {
+		name string
+		args args
+		want string
+	}{
+		// TODO: Add test cases.
+		{
+			name: "only one matches",
+			args: args{s: "leEeetcode"},
+			want: "leetcode",
+		},
+		{
+			name: "all matches",
+			args: args{s: "abBAcC"},
+			want: "",
+		},
+		{
+			name: "single char",
+			args: args{s: "s"},
+			want: "s",
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := makeGoodUsingStack(tt.args.s); got != tt.want {
+				t.Errorf("makeGoodUsingStack() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
