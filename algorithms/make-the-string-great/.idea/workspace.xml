@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc9a97fa-7031-45d0-8bb7-016ed192f743" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../database/temp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.7/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1n9I5HOG1DFeUua1SkeRhTQxbIu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test_makeGood in github.com/keigodasu/leetcode/algorithms/make-the-string-great" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="make-the-string-great" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/keigodasu/leetcode/algorithms/make-the-string-great" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Test_makeGood$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_makeGood in github.com/keigodasu/leetcode/algorithms/make-the-string-great" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1610797649393">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610797649393" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1610797649392">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="462" key="GridCell.Tab.0.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610797649392" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1610797649391">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="462" key="GridCell.Tab.0.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610797649391" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1610797649392">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="462" key="GridCell.Tab.0.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610797649392" />
+    <state width="1878" height="566" key="GridCell.Tab.1.bottom" timestamp="1610797501114">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="566" key="GridCell.Tab.1.bottom/0.23.3840.1577@0.23.3840.1577" timestamp="1610797501114" />
+    <state width="1878" height="566" key="GridCell.Tab.1.center" timestamp="1610797501113">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="566" key="GridCell.Tab.1.center/0.23.3840.1577@0.23.3840.1577" timestamp="1610797501113" />
+    <state width="1878" height="566" key="GridCell.Tab.1.left" timestamp="1610797501113">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="566" key="GridCell.Tab.1.left/0.23.3840.1577@0.23.3840.1577" timestamp="1610797501113" />
+    <state width="1878" height="566" key="GridCell.Tab.1.right" timestamp="1610797501113">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state width="1878" height="566" key="GridCell.Tab.1.right/0.23.3840.1577@0.23.3840.1577" timestamp="1610797501113" />
+    <state x="2545" y="388" width="670" height="676" key="search.everywhere.popup" timestamp="1610796752706">
+      <screen x="0" y="23" width="3840" height="1577" />
+    </state>
+    <state x="2545" y="388" width="670" height="676" key="search.everywhere.popup/0.23.3840.1577@0.23.3840.1577" timestamp="1610796752706" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
